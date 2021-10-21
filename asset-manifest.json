@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/pages/maranaho/arttoys-demo/static/css/main.d763f1d5.chunk.css",
-    "main.js": "/pages/maranaho/arttoys-demo/static/js/main.bd4a31f3.chunk.js",
-    "main.js.map": "/pages/maranaho/arttoys-demo/static/js/main.bd4a31f3.chunk.js.map",
-    "runtime-main.js": "/pages/maranaho/arttoys-demo/static/js/runtime-main.0c43509d.js",
-    "runtime-main.js.map": "/pages/maranaho/arttoys-demo/static/js/runtime-main.0c43509d.js.map",
-    "static/js/2.f3b4fcad.chunk.js": "/pages/maranaho/arttoys-demo/static/js/2.f3b4fcad.chunk.js",
-    "static/js/2.f3b4fcad.chunk.js.map": "/pages/maranaho/arttoys-demo/static/js/2.f3b4fcad.chunk.js.map",
-    "index.html": "/pages/maranaho/arttoys-demo/index.html",
-    "static/css/main.d763f1d5.chunk.css.map": "/pages/maranaho/arttoys-demo/static/css/main.d763f1d5.chunk.css.map",
-    "static/js/2.f3b4fcad.chunk.js.LICENSE.txt": "/pages/maranaho/arttoys-demo/static/js/2.f3b4fcad.chunk.js.LICENSE.txt"
+    "main.css": "/arttoys-demo/static/css/main.d763f1d5.chunk.css",
+    "main.js": "/arttoys-demo/static/js/main.bd4a31f3.chunk.js",
+    "main.js.map": "/arttoys-demo/static/js/main.bd4a31f3.chunk.js.map",
+    "runtime-main.js": "/arttoys-demo/static/js/runtime-main.c6df8660.js",
+    "runtime-main.js.map": "/arttoys-demo/static/js/runtime-main.c6df8660.js.map",
+    "static/js/2.f3b4fcad.chunk.js": "/arttoys-demo/static/js/2.f3b4fcad.chunk.js",
+    "static/js/2.f3b4fcad.chunk.js.map": "/arttoys-demo/static/js/2.f3b4fcad.chunk.js.map",
+    "index.html": "/arttoys-demo/index.html",
+    "static/css/main.d763f1d5.chunk.css.map": "/arttoys-demo/static/css/main.d763f1d5.chunk.css.map",
+    "static/js/2.f3b4fcad.chunk.js.LICENSE.txt": "/arttoys-demo/static/js/2.f3b4fcad.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0c43509d.js",
+    "static/js/runtime-main.c6df8660.js",
     "static/js/2.f3b4fcad.chunk.js",
     "static/css/main.d763f1d5.chunk.css",
     "static/js/main.bd4a31f3.chunk.js"
